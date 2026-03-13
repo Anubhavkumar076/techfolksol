@@ -12,9 +12,9 @@
 
 // Step 1: Paste your Google Sheet ID here
 // Example: "1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgVE2upms"
-export const GOOGLE_SHEET_ID = "1c7hi19dKbTNmwazooQbnXKoIHsqHg-6uY0moJMw6M9I";
+export const GOOGLE_SHEET_ID = "1QGrVc2tq-9AIcMfG8TXTXkeYIg7Qst3bmz_0-Kcb40I";
 
 // Step 2: After deploying your Apps Script as a Web App, paste the full URL here.
 // It will look like: https://script.google.com/macros/s/AKfycb.../exec
 // NOTE: This URL is issued by Apps Script and is separate from GOOGLE_SHEET_ID.
-export const GOOGLE_SCRIPT_URL = `https://script.google.com/macros/s/${GOOGLE_SHEET_ID}/exec`;
+export const GOOGLE_SCRIPT_URL = `https://script.google.com/macros/s/AKfycbwJhksgqUCZ-bMFSv-NaW_h9UbrrVa2c17SiiEwvAKipFlybxWOAllpyPoTNttCY4e7UA/exec`;
